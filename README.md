@@ -2,9 +2,7 @@
 
 Welcome to my growing code repository! 💻🧬🦠
 
-This section will be dedicated on practical skills in bioinformatics, focusing on **microbiome epidemiology** and **bacterial genomics**. 
-
-My goal is for this to become a space for learning and collaboration. Stay tuned as this repository grows, and please feel free to contribute your knowledge or suggest improvements! 
+This section will be dedicated on practical skills in bioinformatics, focusing on **microbiome epidemiology** and **bacterial genomics**. My goal is for this to become a space for learning and collaboration. Stay tuned as this repository grows, and please feel free to contribute your knowledge or suggest improvements! 
 
 ## Navigation
 - [Home](#)
