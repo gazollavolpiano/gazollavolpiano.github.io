@@ -7,9 +7,6 @@ This section will be dedicated on practical skills in bioinformatics, focusing o
 ## Navigation
 - [Home](#)
 - [How to Download Thousands of Public Bacterial and Archaeal Genomes with Trustworthy Labels!](bacterial-archaeal-genomes-download.md)
-<!-- - [Preprocessing](preprocessing.md)
-- [Data Visualization](data-visualization.md)
-- [Statistical Analysis](statistical-analysis.md) -->
 
 <!-- 
 ### Quick Links
