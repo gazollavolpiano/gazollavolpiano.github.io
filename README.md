@@ -4,10 +4,10 @@ This is my dedicated section on practical skills in bioinformatics, focusing on 
 
 ## Navigation
 - [Home](#)
-- [Preprocessing](preprocessing.md)
+- [Public Repositories: Metagenomic Reads, (Metagenome-)Assembled Genomes, and Beyond!](public_data.md)
+<!-- - [Preprocessing](preprocessing.md)
 - [Data Visualization](data-visualization.md)
-- [Statistical Analysis](statistical-analysis.md)
-- [Machine Learning](machine-learning.md)
+- [Statistical Analysis](statistical-analysis.md) -->
 
 How to Create a Genome Database Based on GTDB-Listed Genomes  
 Learn how to select genomes of interest according to the bacterial or archaeal species, isolation source, or other criteria, and use the NCBI download tool to download them. 
