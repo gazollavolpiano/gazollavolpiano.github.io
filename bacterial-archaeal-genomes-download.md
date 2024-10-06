@@ -59,6 +59,8 @@ Now, you can use the data in `bac120_metadata_r220.tsv` (or `ar53_metadata_r220.
 
 #### Example: Downloading *Staphylococcus aureus* genomes that are complete, from Australia, and isolated from blood.
 
+Use R:
+
 ```R
 # Load necessary library
 library(tidyverse)
