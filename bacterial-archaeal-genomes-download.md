@@ -13,7 +13,7 @@ Rough estimates of storage requirements for  (`.fna`) genomes:
 
 - **100 Genomes**: ≈250 MB
 - **1,000 Genomes**: ≈2.5 GB
-- **Whole GTDB r220, Bacteria (~600K Genomes)**: ≈1.5 TB
+- **Whole GTDB r220 (~600K Genomes)**: ≈1.5 TB
 
 ## 🧬 Why GTDB Labels?
 
