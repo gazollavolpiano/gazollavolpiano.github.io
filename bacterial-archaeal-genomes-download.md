@@ -141,7 +141,7 @@ done
 ls genomes_data/*.fna | wc -l # 12, as expected
 ```
 
-Now you can use the `.fna` files for your downstream analysis. The metadata file (`staph_aureus_28_genomes_metadata.tsv`) contains detailed information about each genome, which can be used for further analysis. 🎉
+Now you can use the `.fna` files for your downstream analysis. The metadata file (`staphaureus_12_complete_genomes_from_australia_isolated_from_blood.tsv`) contains detailed information about each genome, which can be used for further analysis. 🎉
 
 
 
