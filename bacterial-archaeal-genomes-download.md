@@ -1,4 +1,4 @@
-# How to Download Thousands of Public Bacterial and Archaeal Genomes
+# How to Easily Download Public Bacterial and Archaeal Genomes
 
 ## 🚧 Problem
 Downloading genomes can be very frustrating when navigating back and forth through the [NCBI Assembly Database](https://www.ncbi.nlm.nih.gov/assembly/) website. 
