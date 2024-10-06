@@ -99,14 +99,15 @@ table(staph_aureus$ncbi_isolation_source)
 
 staph_aureus <- staph_aureus %>%
   filter(str_detect(ncbi_isolation_source, regex("blood", ignore_case = TRUE)))
+dim(staph_aureus) # 12 complete genomes from Australia isolated from blood
 
 # Write the filtered metadata to a TSV file
-write_tsv(staph_aureus, "staph_aureus_28_genomes_metadata.tsv")
+write_tsv(staph_aureus, "staphaureus_12_complete_genomes_from_australia_isolated_from_blood.tsv")
 
 # Save the assembly_accession column to a separate file for downloading genomes
 staph_aureus %>%
   pull(ncbi_genbank_assembly_accession) %>%
-  write_lines("staph_aureus_28_assembly_accession.txt")
+  write_lines("assembly_accessions_12_genomes.txt")
 ```
 
 ## Downloading Genomes with NCBI Datasets 
